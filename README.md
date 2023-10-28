@@ -1,7 +1,5 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/Hackmod"><img height="58" title="TryHackMe Profile" alt="TryHackMe Hackmod Profile" src="https://tryhackme.com/badge/2403471"></a>
-   
+  <a target="_blank" href="https://tryhackme.com/p/Hackmod"><img height="58" title="TryHackMe Profile" alt="TryHackMe Hackmod Profile" src="https://tryhackme-badges.s3.amazonaws.com/Hackmod.png"></a>
 </div>
-<script src="https://tryhackme.com/badge/2403471"></script>
