@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nnewman10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nnewman10/nnewman10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- TryHackMe Profile and Badges -->
+<div align="center">
+  <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
+  <a target="_blank" href="https://tryhackme.com/p/Hackmod"><img height="58" title="TryHackMe Profile" alt="TryHackMe Hackmod Profile" src="https://tryhackme.com/badge/2403471"></a>
+</div>
